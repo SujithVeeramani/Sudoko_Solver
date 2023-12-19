@@ -5,7 +5,18 @@ This Python program generates a Sudoku board, visualizes it using NetworkX, and 
 ## How to Use
 
 ### 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/sudoku-solver
-   cd sudoku-solver
+      ```bash
+      git clone https://github.com/your-username/sudoku-solver
+      cd sudoku-solver
 
+### 2. Run the sudoku_solver.py script:
+      ```bash
+      python sudoku_solver.py
+## Requirements
+   - Python 3.x
+   - NetworkX
+   - Matplotlib
+   - NumPy
+     ```bash
+      Install the required packages using:
+   
