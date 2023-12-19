@@ -20,7 +20,6 @@ This Python program generates a Sudoku board, visualizes it using NetworkX, and 
 
 Install the required packages using:
 
-     ```bash
       pip install networkx matplotlib numpy
 
       
