@@ -17,6 +17,13 @@ This Python program generates a Sudoku board, visualizes it using NetworkX, and 
    - NetworkX
    - Matplotlib
    - NumPy
+
+Install the required packages using:
+
      ```bash
-      Install the required packages using:
-   
+      pip install networkx matplotlib numpy
+
+      
+Feel free to explore the code and experiment with different Sudoku boards and solving algorithms.
+
+Enjoy solving Sudoku interactively with Python!
