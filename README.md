@@ -26,3 +26,9 @@ Install the required packages using:
 Feel free to explore the code and experiment with different Sudoku boards and solving algorithms.
 
 Enjoy solving Sudoku interactively with Python!
+
+## Contact me
+### Have any issues while using this? Feel free to contact me
+
+- LinkedIN  - https://www.linkedin.com/in/sujithvl/
+- Instagram - https://www.instagram.com/sujith_vl_/
